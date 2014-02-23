@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block body_class %}
+	{{ block.super }} home
+{% endblock body_class %}
+
+{% block body %}
+Hello World
+
+	<div id="container">
+		<div class="item">123</div>
+		<div class="item w2">678</div>
+		<div class="item">639</div>
+	</div>
+
+{% endblock body%}
+
+
+{% block additional_js %}
+	<script src="{% static "js/lib/masonry/masonry-3.1.4.min.js" %}"></script>
+	<script type="text/javascript">
+		var container = document.querySelector('#container');
+		var msnry = new Masonry( container, {
+		  // options
+		  columnWidth: 200,
+		  itemSelector: '.item'
+		});
+	</script>
+{% endblock additional_js %}

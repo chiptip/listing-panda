@@ -1,0 +1,37 @@
+{
+	"listings": [
+		{
+			"id": "M34048-04409",
+			"address": "10 Wales Pl, Mount Vernon, NY",
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/10-Wales-Pl_Mount-Vernon_NY_10552_M34048-04409",
+			"author": "Christopher M. Pagli"
+		},
+		{
+			"id": "M48902-53736",
+			"address": "25 Berrian Rd, New Rochelle, NY",
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/25-Berrian-Rd_New-Rochelle_NY_10804_M48902-53736",
+			"author": "Trudi Iglesias"
+		},
+		{
+			"id": "M43194-43958",
+			"address": "25 Holly Dr, New Rochelle, NY",
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/25-Holly-Dr_New-Rochelle_NY_10801_M43194-43958",
+			"author": "Rose Bulfamante"
+		},
+		{
+			"id": "M35980-94446",
+			"address": "66 Disbrow Ln, New Rochelle, NY",
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/66-Disbrow-Ln_New-Rochelle_NY_10804_M35980-94446",
+			"author": "Mary Ann Giacobbe"
+		},
+	]
+}
+
