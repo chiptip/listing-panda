@@ -39,7 +39,288 @@
 			"url": "http://www.realtor.com/realestateandhomes-detail/66-Disbrow-Ln_New-Rochelle_NY_10804_M35980-94446",
 			"author": "Mary Ann Giacobbe",
 			"description": "Gracious Tudor in beautiful neighborhood. Spacious five bedroom, three and 1/2 bath home with large patio for outside entertaining."
+		},
+		{
+			"id": "M34855-85600",
+			"address": "81 Van Etten Blvd, New Rochelle, NY",
+			"price": 899000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/81-Van-Etten-Blvd_New-Rochelle_NY_10804_M34855-85600",
+			"author": "Glorianne Mattesi",
+			"description": "rivacy and a sophisticated contemporary lifestyle await you in the fantastic Expanded Custom Split Level home. This home sits serenely on over one-half acre of beautifully landscaped & tree-lined property backing up to Ward Acres Nature Preserve."
+		},
+		{
+			"id": "M35980-94446",
+			"address": "150 Bon Air Ave, New Rochelle, NY 10804",
+			"price": 874000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/150-Bon-Air-Ave_New-Rochelle_NY_10804_M42457-57817",
+			"author": "Jennifer Askowitz",
+			"description": "Stately 4000 sf 6 BR Wykagyl Tudor set on a quiet dead end st with arch details, upgraded elect,screened porch, spacious common areas,high ceilings & central air."
+		},
+		{
+			"id": "M30127-76843",
+			"address": "28 Northwood Cir, New Rochelle, NY 10804",
+			"price": 850000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/28-Northwood-Cir_New-Rochelle_NY_10804_M30127-76843",
+			"author": "Mary Jacobs",
+			"description": "Bright, spacious, well-kept home in most convenient neighborhood. Home has large light-filled rooms such as formal living room, formal dining room, eat-in kitchen with separate breakfast area and separate laundry; family room with fireplace, and walkout to deck."
+		},
+		{
+			"id": "M45157-12304",
+			"address": "3 Richmond Ln, New Rochelle, NY",
+			"price": 850000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/3-Richmond-Ln_New-Rochelle_NY_10804_M45157-12304?row=4",
+			"author": "RAJEEV CHENNATTU",
+			"description": "This spacious Ranch/Colonial style home has nice layout for gracious living and entertaining. The large Family Rm and the Living Rm (both have fireplaces) have floor to ceiling picture windows that bring plenty of natural light in and offer a view of beautifully landscaped lawn and patio."
+		},
+		{
+			"id": "M38481-58000",
+			"address": "49 Soulice Pl, New Rochelle, NY",
+			"price": 849000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/49-Soulice-Pl_New-Rochelle_NY_10804_M38481-58000?row=5",
+			"author": "Comfort Usukumah",
+			"description": "Beautiful,spacious and modern raised ranch in a quiet dead end street. Large back yard and a new deck for entertaining."
+		},
+		{
+			"id": "M37338-51309",
+			"address": "267 Country Ridge Rd, Scarsdale, NY",
+			"price": 825000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/267-Country-Ridge-Rd_Scarsdale_NY_10583_M37338-51309?row=8",
+			"author": "Comfort Usukumah",
+			"description": "Park-like setting, beautiful and luxurious home with marbles, very large EIK, large rooms, heated solarium for all year use, solid wooden floors throughout."
+		},
+		{
+			"id": "M49835-44941",
+			"address": "131 Sprague Rd, New Rochelle, NY",
+			"price": 749000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/131-Sprague-Rd_New-Rochelle_NY_10583_M49835-44941?row=10",
+			"author": "Susan Bigger",
+			"description": "Spacious home with open floor plan. Light filled rooms, updated Chef's kitchen. Live large inside and out. Enjoy the deck and beautiful patio in the fenced, flat backyard. Central Air, hardwood floors, alarm and garden sprinkler system."
+		},
+		{
+			"id": "M34042-88464",
+			"address": "136 Neptune Ave, New Rochelle, NY",
+			"price": 749000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/136-Neptune-Ave_New-Rochelle_NY_10805_M34042-88464?row=11",
+			"author": "Monique Brunson",
+			"description": "This Exquisitely Well-Kept Colonial Offers Beautiful Wooden Details, Pocket Doors, Amazing Wood Flooring, Stained Glass, Large Rooms, Covered Patio For Outdoor Entertaining.An Elevator Gives Access To Yard, First Floor & Basement."
+		},
+		{
+			"id": "M43215-35222",
+			"address": "16 Brookridge Rd, New Rochelle, NY",
+			"price": 725000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/16-Brookridge-Rd_New-Rochelle_NY_10804_M43215-35222?row=12",
+			"author": "Lisa Sangster",
+			"description": "Desirable End Unit Single Family/ Townhome w/ 1st Floor Master Bedroom Suite w/ vaulted ceiling, in Gated Community."
+		},
+		{
+			"id": "M49736-65248",
+			"address": "76 Brendon Hill Rd, Scarsdale, NY",
+			"price": 709999,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/76-Brendon-Hill-Rd_Scarsdale_NY_10583_M49736-65248?row=13",
+			"author": "Victoria Gjelaj",
+			"description": "Welcome home & bring all your extended family to this bright & spacious 5 bedroom 4 baths 3200+ sqft ranch on leveled park like property in beech hill estates."
+		},
+		{
+			"id": "M36487-63716",
+			"address": "104 Neptune Ave, New Rochelle, NY",
+			"price": 699000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/104-Neptune-Ave_New-Rochelle_NY_10805_M36487-63716?row=14",
+			"author": "Santo Ortiz",
+			"description": "Spacious and bright Victorian with a wrap-around porch. This unique home has a great floor plan enhanced by an exquisite double entrance with period architectural details, lovely."
+		},
+		{
+			"id": "M43614-00334",
+			"address": "740 Pelhamdale Ave, New Rochelle, NY",
+			"price": 659021,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/740-Pelhamdale-Ave_New-Rochelle_NY_10801_M43614-00334?row=15",
+			"author": "Renee Lepore",
+			"description": "Old world charm in this 6 bedroom, 2.1 Bath turn of the century Colonial style home with beautiful Portico and grand entrance"
+		},
+		{
+			"id": "M34006-03507",
+			"address": "125 Hamilton Ave, New Rochelle, NY",
+			"price": 619000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/125-Hamilton-Ave_New-Rochelle_NY_10801_M34006-03507?row=16",
+			"author": "Melanie Williams",
+			"description": "Grand Tudor In Historic Rochelle Heights. Updated Kitchen With SS Appliances and Granite Counter-Tops. Updated Baths, Two Fireplaces, Large Living Room and Sunroom/Family Room."
+		},
+		{
+			"id": "M49235-88045",
+			"address": "919 Wilmot Rd, Scarsdale, NY",
+			"price": 610000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/919-Wilmot-Rd_Scarsdale_NY_10583_M49235-88045?row=17",
+			"author": "Maryellen Gramolini",
+			"description": "Beautiful Wilmot Woods, spacious Cape Cod-style home.Short commute to Scarsdale Station. Walk to all. Very nice level back yard."
+		},
+		{
+			"id": "M41377-10368",
+			"address": "537 Webster Ave, Out Of Area Town, NY",
+			"price": 560000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/537-Webster-Ave_New-Rochelle_NY_10801_M41377-10368?row=19",
+			"author": "John Lajara",
+			"description": "5 Br/3 Ba Dutch Colonial With An Adjacent Buildable Lot (Total 0.320 Acres) In Huguenot Pk - New Rochelle. Main Fl Features Lr W/ Fireplace, Formal Dr, Eik, Den & Family Rm That Leads To An Over-Sized Yard Great For Bbq/Entertainment."
+		},
+		{
+			"id": "M31724-39885",
+			"address": "10 Manhattan Ave, New Rochelle, NY",
+			"price": 514900,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/10-Manhattan-Ave_New-Rochelle_NY_10801_M31724-39885?row=20",
+			"author": "Joe Hasselt",
+			"description": "Large imposing Tudor with grand spaces. Sun filled rooms. Multiple fireplaces. Beautiful woodwork. Hardwood floors throughout."
+		},
+		{
+			"id": "M41655-39987",
+			"address": "409 Pinebrook Blvd, New Rochelle, NY",
+			"price": 940000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/409-Pinebrook-Blvd_New-Rochelle_NY_10804_M41655-39987?row=2",
+			"author": "Luis Fernandez",
+			"description": "Builder Own Dream house with Architectural details through out could be yours! Completely Renovated with a fresh open floor plan in (June/2010)"
+		},
+		{
+			"id": "M40245-64149",
+			"address": "25 Harmon Ave, Pelham, NY",
+			"price": 999000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/25-Harmon-Ave_Pelham_NY_10803_M40245-64149?row=1",
+			"author": "Arthur Scinta",
+			"description": "Commuter's Dream! One block from the historic Pelham Train Station, sits this bright English Counry Style home with fantastic space and a great big level back yard."
+		},
+		{
+			"id": "M42444-23764",
+			"address": "1084 Esplanade, Pelham, NY",
+			"price": 980000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/1084-Esplanade_Pelham_NY_10803_M42444-23764?row=2",
+			"author": "McCLELLAN SOTHEBY'S INTERNATIONAL REALTY",
+			"description": "A Victorian Painted Lady in Pelham! This Queen Anne Stick style home has lovely light and high ceilings & features 6 bedrooms, 4 full baths, with formal dining room and 2 parlor rooms,one a music room and one a living room."
+		},
+		{
+			"id": "M45731-34750",
+			"address": "173 Country Ridge Rd, Scarsdale, NY",
+			"price": 950000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/173-Country-Ridge-Rd_Scarsdale_NY_10583_M45731-34750",
+			"author": "Jennifer Askowitz",
+			"description": "Very bright & spac CH col w/large rms & entertaining areas,5 BR, Renov Bth,updated EIK w/big centr island, 3 sinks,& 2 dishwashers w/dr to side yard. Most rooms just painted. "
+		},
+		{
+			"id": "M43564-64783",
+			"address": "40 Rockledge Dr, Pelham, NY",
+			"price": 1499999,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/40-Rockledge-Dr_Pelham_NY_10803_M43564-64783",
+			"author": "Jane H. Carmody",
+			"description": "This majestic Tudor in the Pelham Manor estate area offers gracious, sun-filled rooms that are beautifully-appointed with classic features, including custom millwork, leaded-glass windows and imported custom tile."
+		},
+		{
+			"id": "M37052-71480",
+			"address": "190 Wilmot Rd, New Rochelle, NY",
+			"price": 149999,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/190-Wilmot-Rd_New-Rochelle_NY_10804_M37052-71480",
+			"author": "Abraham Moolayil",
+			"description": "Remarkable 3696 Square feet 2002 built Grand Colonial sits on 0.510 acres of beautiful landscaped grounds. Savor the aroma when cooking in your gourmet kitchen with its superbly crafted Mahogany Cabinets & stainless steel appliances, Gleaming hardwood floors throughout, high ceilings & two fireplaces."
+		},
+		{
+			"id": "M42912-86649",
+			"address": "4545 Boston Post Rd, Pelham, NY",
+			"price": 1499000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/4545-Boston-Post-Rd_Pelham_NY_10803_M42912-86649",
+			"author": "Lynn Zachos",
+			"description": "A grand Victorian home with a large detached guest house. This home has original details throughout, beautiful detailed wood, stained glass windows and sky lights."
+		},
+		{
+			"id": "M40312-82168",
+			"address": "155 Monterey Ave, Pelham, NY ",
+			"price": 1499000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/155-Monterey-Ave_Pelham_NY_10803_M40312-82168",
+			"author": "McCLELLAN SOTHEBY'S INTERNATIONAL REALTY",
+			"description": "Wrought iron fencing encloses this .43 acre corner property on most appealing Heights street within easy walking distance to train, schools & village, Bright, sunny & beautifully proportioned rooms, wonderful layout with easy access to magnificent yard, meticulously maintained quality details throughout."
+		},
+		{
+			"id": "M39266-57072",
+			"address": "635 Colonial Ave, Pelham, NY",
+			"price": 1498000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/635-Colonial-Ave_Pelham_NY_10803_M39266-57072",
+			"author": "McCLELLAN SOTHEBY'S INTERNATIONAL REALTY",
+			"description": "Back on market, drastically reduced, priced to sell! Best buy in Pelham Heights! Gracious, grand, impressive Italian Villa built with the finest materials & craftsmanship."
+		},
+		{
+			"id": "M32598-65786",
+			"address": "114 High Point Rd, Scarsdale, NY",
+			"price": 1495000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/114-High-Point-Rd_Scarsdale_NY_10583_M32598-65786",
+			"author": "Caryn Balamaci",
+			"description": "Welcome to Hamptons style on High Point- just 30 minutes from New York City, where nature and sky are center stage."
+		},
+		{
+			"id": "M40028-28658",
+			"address": "237 Loring Ave, Pelham, NY",
+			"price": 1495000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/237-Loring-Ave_Pelham_NY_10803_M40028-28658",
+			"author": "McCLELLAN SOTHEBY'S INTERNATIONAL REALTY",
+			"description": "The BEST location - quiet street with easy walk to train, village and schools - this delightful 4000sf CH Colonial has elegant foyer with circular staircase, beautiful formal LR & DR"
+		},
+		{
+			"id": "M31234-35170",
+			"address": "400 Clayton Rd, Scarsdale, NY",
+			"price": 1489000,
+			"photo": "",
+			"img_type": "landscape",
+			"url": "http://www.realtor.com/realestateandhomes-detail/400-Clayton-Rd_Scarsdale_NY_10583_M31234-35170",
+			"author": "William Dumke",
+			"description": "Renovated in 1997, this home has it all on over a half an acre. Large eat-in-kitchen with two of everything. Spacious living and dining room both with fireplaces, first floor master suite and guest bedroom with hall bath and study with fireplace make for easy living."
 		}
+
 	]
 }
 

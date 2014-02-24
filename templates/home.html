@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-
+{% load humanize %}
 {% load static %}
 
 {% block body_class %}
@@ -24,10 +24,10 @@
 		{% for listing in listings %}
 		<div class="listing listing-portrait rounded shadow" id="{{ listing.id }}">
 			<div class="photo top-rounded">
-				<img src="{{ MEDIA_URL }}{{ listing.id }}.jpg" />
+				<a href="{{ listing.url }}"><img src="{{ MEDIA_URL }}{{ listing.id }}.jpg" /></a>
 			</div>
 			<div class="listing-body bottom-rounded">
-				<div class="price">${{ listing.price }}</div>
+				<div class="price">${{ listing.price|intcomma }}</div>
 				<div class="address">{{ listing.address }}</div>
 				<div class="description">{{ listing.description }}</div>
 				<div class="author">{{ listing.author }}</div>
