@@ -22,14 +22,16 @@
 		</div>
 -->
 		{% for listing in listings %}
-		<div class="listing listing-portrait" id="{{ listing.id }}">
-			<div class="price">${{ listing.price }}</div>
-			<div class="photo">
+		<div class="listing listing-portrait rounded shadow" id="{{ listing.id }}">
+			<div class="photo top-rounded">
 				<img src="/content/{{ listing.id }}.jpg" />
 			</div>
-			<div class="address">{{ listing.address }}</div>
-			<div class="description">{{ listing.description }}</div>
-			<div class="author">{{ listing.author }}</div>
+			<div class="listing-body bottom-rounded">
+				<div class="price">${{ listing.price }}</div>
+				<div class="address">{{ listing.address }}</div>
+				<div class="description">{{ listing.description }}</div>
+				<div class="author">{{ listing.author }}</div>
+			</div>
 		</div>
 		{% endfor %}
 	</div>
@@ -43,8 +45,9 @@
 		var container = document.querySelector('#container');
 		var msnry = new Masonry( container, {
 		  // options
-		  columnWidth: 30,
-		  itemSelector: '.listing'
+		  columnWidth: 300,
+		  itemSelector: '.listing',
+		  gutter: 10
 		});
 	</script>
 {% endblock additional_js %}
