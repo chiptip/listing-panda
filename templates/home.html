@@ -24,7 +24,7 @@
 		{% for listing in listings %}
 		<div class="listing listing-portrait rounded shadow" id="{{ listing.id }}">
 			<div class="photo top-rounded">
-				<img src="/content/{{ listing.id }}.jpg" />
+				<img src="{{ MEDIA_URL }}{{ listing.id }}.jpg" />
 			</div>
 			<div class="listing-body bottom-rounded">
 				<div class="price">${{ listing.price }}</div>

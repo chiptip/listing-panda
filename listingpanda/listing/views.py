@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.views.generic import View
-from listingpanda.settings import BASE_DIR
+from listingpanda.settings import BASE_DIR, MEDIA_URL
 
 import json
 import os
@@ -19,4 +19,5 @@ class ListingView(View):
 
     def get(self, request, *args, **kwargs):
         context = self.load()
+        context['MEDIA_URL'] = MEDIA_URL
         return render(request, self.template_name, context)
