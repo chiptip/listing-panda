@@ -3,35 +3,43 @@
 		{
 			"id": "M34048-04409",
 			"address": "10 Wales Pl, Mount Vernon, NY",
+			"price": 579000,
 			"photo": "",
 			"img_type": "landscape",
 			"url": "http://www.realtor.com/realestateandhomes-detail/10-Wales-Pl_Mount-Vernon_NY_10552_M34048-04409",
-			"author": "Christopher M. Pagli"
+			"author": "Christopher M. Pagli",
+			"description": "Stately Center Hall Colonial In The Heart Of 10552"
 		},
 		{
 			"id": "M48902-53736",
 			"address": "25 Berrian Rd, New Rochelle, NY",
+			"price": 795000,
 			"photo": "",
 			"img_type": "landscape",
 			"url": "http://www.realtor.com/realestateandhomes-detail/25-Berrian-Rd_New-Rochelle_NY_10804_M48902-53736",
-			"author": "Trudi Iglesias"
+			"author": "Trudi Iglesias",
+			"description": "Lovingly maintained custom built elegant center hall colonial. Hardwood floors throughout. Beautiful interior architectural archways."
 		},
 		{
 			"id": "M43194-43958",
 			"address": "25 Holly Dr, New Rochelle, NY",
+			"price": 828000,
 			"photo": "",
 			"img_type": "landscape",
 			"url": "http://www.realtor.com/realestateandhomes-detail/25-Holly-Dr_New-Rochelle_NY_10801_M43194-43958",
-			"author": "Rose Bulfamante"
+			"author": "Rose Bulfamante",
+			"description": "Welcome Home! Charming six bedroom Tudor with spacious layout great for entertaining, large foyer, living room with fireplace, sunroom/family room, formal dining room with built ins, new eat in kitchen with door to patio, fenced in backyard, laundry on first floor.  For Immediate Assistance Call 888.454.7356"
 		},
 		{
 			"id": "M35980-94446",
 			"address": "66 Disbrow Ln, New Rochelle, NY",
+			"price": 825000,
 			"photo": "",
 			"img_type": "landscape",
 			"url": "http://www.realtor.com/realestateandhomes-detail/66-Disbrow-Ln_New-Rochelle_NY_10804_M35980-94446",
-			"author": "Mary Ann Giacobbe"
-		},
+			"author": "Mary Ann Giacobbe",
+			"description": "Gracious Tudor in beautiful neighborhood. Spacious five bedroom, three and 1/2 bath home with large patio for outside entertaining."
+		}
 	]
 }
 

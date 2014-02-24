@@ -1,2 +1,40 @@
-.listing-portrait { width: 25%; }
-.listing-landscape { width: 50%; }
+.listing {
+	border:								solid 1px #000;
+	margin-bottom:						10px;
+}
+
+.listing-portrait { 
+	width: 25%; 
+}
+
+.listing-landscape { 
+	width: 50%; 
+}
+
+.listing .price {
+	text-align:							center;
+}
+
+.listing .photo {
+	text-align:							center;
+}
+
+.listing .address {
+	text-align:							center;
+}
+
+.listing .description {
+	margin:								10px;
+	text-align:							center;
+}
+
+.listing .author {
+	margin-right:						10px;
+	text-align:							right;
+	font-style: 						italic;
+	color:								lightgray;
+}
+
+.listing-portrait .photo img {
+	width:								350px;
+}

@@ -7,12 +7,31 @@
 {% endblock body_class %}
 
 {% block body %}
-Hello World
-
 	<div id="container">
-		<div class="item">123</div>
-		<div class="item w2">678</div>
-		<div class="item">639</div>
+<!--		
+		<div class="listing listing-portrait" id="M34048-04409">
+			<div class="price">$579,000</div>
+			<div class="photo">
+				<img src="/content/M34048-04409.jpg" />
+			</div>
+			<div class="address">10 Wales Pl, Mount Vernon, NY</div>
+			<div class="description">
+				Stately Center Hall Colonial In The Heart Of 10552
+			</div>
+			<div class="author">Christopher M. Pagli</div>
+		</div>
+-->
+		{% for listing in listings %}
+		<div class="listing listing-portrait" id="{{ listing.id }}">
+			<div class="price">${{ listing.price }}</div>
+			<div class="photo">
+				<img src="/content/{{ listing.id }}.jpg" />
+			</div>
+			<div class="address">{{ listing.address }}</div>
+			<div class="description">{{ listing.description }}</div>
+			<div class="author">{{ listing.author }}</div>
+		</div>
+		{% endfor %}
 	</div>
 
 {% endblock body%}
@@ -24,8 +43,8 @@ Hello World
 		var container = document.querySelector('#container');
 		var msnry = new Masonry( container, {
 		  // options
-		  columnWidth: 200,
-		  itemSelector: '.item'
+		  columnWidth: 30,
+		  itemSelector: '.listing'
 		});
 	</script>
 {% endblock additional_js %}
