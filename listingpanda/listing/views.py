@@ -14,7 +14,7 @@ class ListingView(View):
     def load(self):
         json_data = open(self.sample_json)
      	listings = json.load(json_data)
-     	listings['listings'] = listings['listings'][:15]
+     	listings['listings'] = listings['listings']
         json_data.close()
         return listings
 
